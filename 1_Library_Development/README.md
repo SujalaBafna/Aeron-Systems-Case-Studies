@@ -20,5 +20,6 @@ I developed a **unified Altium library** by:
 - Learned how component standards (RoHS, AEC-Q200, etc.) affect industrial design  
 
 📂 Files:  
-- `ARN_HW_CENTRAL.SchLib` (sample)  
-- `ALTIUM_LIB_GUIDE.md/pdf`
+- `Sample.SchLib`
+- `Sample.PcbLib`
+- `Sample.IntLib`
