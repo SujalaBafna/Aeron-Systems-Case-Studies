@@ -19,7 +19,7 @@ Enhance the **SPIM1000 product** to measure solar soiling index directly from in
 - Gained hands-on exposure to **corporate-level project discussions and decision-making**  
 
 📂 Files:  
-- `simulations/IV_curve.ms14`  
-- `simulations/Panel_switch.ms14`  
+- `IV_curve_Sim_PV.ms14`  
+- `Panel_Bypass_SSR_Sim.ms14`  
 - `BOM.xlsx`  
-- `SIMPS_Report.md/pdf`
+- `IV_Curve_Plots.xlsx`
